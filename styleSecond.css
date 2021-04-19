@@ -1,0 +1,27 @@
+*{margin: 0; padding: 0;}
+
+.backBtn{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    background-color: rgb(63, 66, 62);
+    border-radius: 5px;
+    padding: 13px 13px 13px 13px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: none;
+}
+
+.backBtn:hover{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.videoFrame{
+    margin-top: 5rem;
+    margin-left: 3rem;
+}
